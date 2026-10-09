@@ -16,7 +16,7 @@ Student at 42 School (Lyon) | Bachelor-equivalent Degree (RNCP Level 6 — *Soft
 
 ## ⚡ Key Projects (42 School)
 
-### 📌 [ft_transcendence](https://github.com/mathis-blt/ft_transcendence)
+### 📌 [ft_transcendence](https://github.com/Pulse-rar/ft_transcendence)
 *Web Application & REST API*
 - Designed the backend architecture using **Go (Gin Framework)** with a **PostgreSQL** database.
 - Implemented **OAuth2** authentication (42 API) and full containerization via **Docker Compose**.
